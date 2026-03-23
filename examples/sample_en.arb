@@ -1,0 +1,35 @@
+{
+  "appName": "TaskFlow Pro",
+  "navDashboard": "Dashboard",
+  "navProjects": "Projects",
+  "navSettings": "Settings",
+  
+  "themeLight": "Light Theme",
+  "themeDark": "Dark Theme",
+  "themeSystem": "System Default",
+  
+  "btnSave": "Save Changes",
+  "btnCancel": "Cancel",
+  "btnDelete": "Delete",
+  
+  "taskCompleted": "{count} tasks completed today",
+  "@taskCompleted": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  
+  "deleteConfirmation": "Are you sure you want to permanently delete '{itemName}'?",
+  "@deleteConfirmation": {
+    "placeholders": {
+      "itemName": {
+        "type": "String"
+      }
+    }
+  },
+  
+  "emptyStateMessage": "No tasks for this project yet. Time to relax!",
+  "upgradeProTitle": "Unlock Pro Features"
+}
